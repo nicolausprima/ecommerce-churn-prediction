@@ -24,6 +24,7 @@ The ROC-AUC curve demonstrates the models' ability to distinguish between retain
 
 ### 2. Precision-Recall Curve (Tuned Models)
 Because customer churn is often an imbalanced classification problem, the Precision-Recall curve is a critical metric. It highlights the trade-off between accurately identifying churners (Precision) and capturing as many true churners as possible (Recall).
+
 ![Precision-Recall Curve](images/pr_curve.png)
 
 ### 3. Feature Importance (XGBoost)
