@@ -20,6 +20,7 @@ We trained and evaluated several models including Logistic Regression, Decision 
 
 ### 1. ROC-AUC Curve (Tuned Models)
 The ROC-AUC curve demonstrates the models' ability to distinguish between retained and churned customers. XGBoost and LightGBM typically achieve the highest AUC scores.
+
 ![ROC-AUC Curve](images/roc_auc_curve.png)
 
 ### 2. Precision-Recall Curve (Tuned Models)
